@@ -62,19 +62,14 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Impressum"
   weight = 10
 
-[[menu.copyright_footer]]
-  url = "#"
-  name = "Another Link"
-  weight = 30
-
 [[menu.footer_social]]
   weight = 20
   name = "facebook"
   pre = "fab fa-facebook-f"
-  url = "#"
+  url = "https://www.facebook.com/CSDWiesbaden"
 
 [[menu.footer_social]]
   weight = 30
-  name = "linkedin"
-  pre = "fab fa-linkedin-in"
-  url = "#"
+  name = "instagram"
+  pre = "fab fa-instagram"
+  url = "https://www.instagram.com/csdwiesbaden/"

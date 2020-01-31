@@ -1,13 +1,10 @@
 # Site settings
-baseurl = "/"
-languageCode = "en-us"
-title = "Okkur - Syna"
+baseurl = "https://testing.ullmann.space"
+languageCode = "de-de"
+title = "Christopher Street Day Wiesbaden"
 theme = "syna"
 enableGitInfo = true
 version = "0.16.1"
-
-# Google Analytics tracking
-googleAnalytics = ""
 
 [outputs]
   home = ["HTML", "JSON"]
@@ -22,8 +19,8 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Christopher Street Day Wiesbaden"
+  description = "Rahmenprogramm | Demo | Sommerfest | Party"
 
   [params.style]
     #background = "secondary"
@@ -36,14 +33,6 @@ lastmod = ["lastmod", ":git", "date"]
     favicon_png = "favicon.png"
     favicon_svg = "favicon.svg"
 
-  # Piwik tracking
-  [params.analytics.piwik]
-    #url = ""
-    #id = ""
-    #domain = "" # Track subdomains via "*.example.com"
-    # Optional hash for integrity check
-    #hash = "sha512-RfeD0pacGTqy9m7U6PgehQfS4cc7SIt+e+P+H5e848kEvB/RW84CUGO3O4O3LNbxjevym6KPUZ8muPsMrI8WIw=="
-
   # Optional, global disable switch for fontawesome related files
   # For custom fontawesome js files use the custom.js method
   [params.fontawesome]
@@ -51,51 +40,26 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#00838F"
-    secondary = "#868e96"
+    primary = "#000000"
+    secondary = "#000000"
     success = "#008f54"
     info = "#00c9dc"
     warning = "#fdf314"
     danger = "#dc1200"
-    light = "#f8f9fa"
+    light = "#ffffff"
     dark = "#343a40"
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
 # configurable.
 [[menu.main]]
-  url = "/"
-  name = "Home"
-  weight = 10
-
-[[menu.main]]
-  url = "/about"
-  name = "About Us"
-  weight = 20
-
-[[menu.main]]
-  url = "#contact"
-  name = "Contact"
-  weight = 30
-
-[[menu.footer]]
-  url = "#"
-  name = "Link"
-  weight = 10
-
-[[menu.footer]]
-  url = "#"
-  name = "Long Link"
-  weight = 30
-
-[[menu.footer]]
-  url = "#"
-  name = "Tiny Link"
+  url = "/kontakt"
+  name = "Kontakt"
   weight = 30
 
 [[menu.copyright_footer]]
-  url = "/about"
-  name = "About Us"
+  url = "/impressum"
+  name = "Impressum"
   weight = 10
 
 [[menu.copyright_footer]]

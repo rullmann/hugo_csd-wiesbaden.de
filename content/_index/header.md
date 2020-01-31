@@ -4,7 +4,7 @@ fragment = "hero"
 date = "2020-01-31"
 weight = 50
 background = "text_light" # can influence the text color
-particles = true
+particles = false
 
 title = "Christopher Street Day Wiesbaden"
 subtitle = "Rahmenprogramm | Demo | Sommerfest | Party"

@@ -18,7 +18,8 @@ Deshalb stellen wir folgende <b>Forderungen</b> auf:<br>
 + <b>Reformierung des Transsexuellengesetzes (TSG)</b>:
   * Bundesweit einheitliche Regelung zur Nutzung des Personenstandsgesetzes (PStG §45b) für trans*/intersexuelle/nicht-binäre Menschen. „Geschlechtsangabe und Vornamensführung bei Personen mit Varianten der Geschlechtsentwicklung“
   * Eine auf Selbstbestimmung gerichtete bundesweite Regelung
-  * Bessere Aufklärung mit Anlaufstellen für medizinische und behördliche Beratung. o Vollständige Übernahme aller Kosten im Rahmen einer Geschlechtsangleichung durch Krankenkassen
+  * Bessere Aufklärung mit Anlaufstellen für medizinische und behördliche Beratung.
+  * Vollständige Übernahme aller Kosten im Rahmen einer Geschlechtsangleichung durch Krankenkassen
 + <b>Operationen von intersexuellen Kindern</b>:
   * Komplettes Verbot von nicht-notwendigen Geschlechtsangleichungen bei intersexuellen Kindern
   * Entschädigung von Kindern, bei denen nicht-notwendige geschlechtsangleichende Operationen durchgeführt wurden<p>

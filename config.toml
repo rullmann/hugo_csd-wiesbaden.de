@@ -53,11 +53,6 @@ lastmod = ["lastmod", ":git", "date"]
 # Keep an eye out for updates. These will be moved out to make navbar more
 # configurable.
 [[menu.main]]
-  url = "/neuigkeiten"
-  name = "Neuigkeiten"
-  weight = 20
-
-[[menu.main]]
   url = "/kontakt"
   name = "Kontakt"
   weight = 30

@@ -13,7 +13,7 @@ subtitle = "Rahmenprogramm | Demo | Sommerfest | Party"
   image = "header.jpg"
 
 [asset]
-  image = "logo.svg"
+  image = "header_inner_logo.png"
   width = "500px" # optional - will default to image width
-  #height = "150px" # optional - will default to image height
+  #height = "166px" # optional - will default to image height
 +++

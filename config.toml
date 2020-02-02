@@ -1,5 +1,6 @@
 # Site settings
-baseurl = "https://csdwi-test.ullmann.space"
+baseurl = "https://csd-wiesbaden.de"
+#baseurl = "https://csdwi-test.ullmann.space"
 languageCode = "de-de"
 title = "Christopher Street Day Wiesbaden"
 theme = "syna"

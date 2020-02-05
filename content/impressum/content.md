@@ -19,6 +19,10 @@ Vertreten durch<br>
 Telefon: 0171 – 5443774<br>
 E-Mail: <vorstand@warmeswiesbaden.de>
 
+### Realisierung
+
+Die gestalterische und technische Umsetzung dieser Seite erfolgt aus Überzeugung und bunten Ideen durch [Annette Kühn](http://blaubeeren-und-zimt.de/) und [Rico Ullmann](https://ullmann.space/).
+
 ### Kontoverbindung<br>
 Warmes Wiesbaden e.V.<br>
 IBAN: DE02 5109 0000 0006 6373 02<br>

@@ -1,6 +1,6 @@
 # Site settings
-baseurl = "https://csd-wiesbaden.de"
-#baseurl = "https://csdwi-test.ullmann.space"
+#baseurl = "https://csd-wiesbaden.de"
+baseurl = "https://csdwi-test.ullmann.space"
 languageCode = "de-de"
 title = "Christopher Street Day Wiesbaden"
 theme = "syna"
@@ -56,6 +56,11 @@ lastmod = ["lastmod", ":git", "date"]
   url = "/kontakt"
   name = "Kontakt"
   weight = 30
+
+[[menu.main]]
+  url = "/demo"
+  name = "Demonstration"
+  weight = 20
 
 [[menu.copyright_footer]]
   url = "/impressum"

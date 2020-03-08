@@ -19,7 +19,7 @@ Für das kulturelle Rahmenprogramm, die queeren Kulturwoche, freuen wir uns imme
 
 ## Demonstration
 
-Wenn ihr an der Demo teilnehmen wollt oder Fragen habt, kontaktiert uns ganz einfach [hier](demo-parade@csd-wiesbaden.de).
+Wenn ihr an der Demo teilnehmen wollt oder Fragen habt, kontaktiert uns ganz einfach [hier](mailto:demo-parade@csd-wiesbaden.de).
 
 ## Infostand
 

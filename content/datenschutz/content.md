@@ -16,7 +16,7 @@ Diese Website erhebt keine personenbezogenen Daten. Wir wollen nichts über euch
 
 ## IP-Adressen
 
-IP-Adressen können unter Umständen auf Personen zurückgeführt werden und somit ein personenbezogenes Datum sein. Daher speichern wir IP-Adressen nicht vollständig, sondern gekürzt. Die Speicherung erfolgt zur Analyse im Fehlerfall oder bei Angriffen auf die Serversysteme.
+IP-Adressen können unter Umständen auf Personen zurückgeführt werden. Daher speichern wir IP-Adressen nicht vollständig, sondern gekürzt. Die Speicherung erfolgt zur Analyse im Fehlerfall oder bei Angriffen auf die Serversysteme.
 
 Gespeichert werden folgende Angaben beim Zugriff auf diese Website:
 * Gekürzte IP-Adresse

@@ -12,7 +12,7 @@ Beginn des CSD ist wie in jedem Jahr die <b>Demonstration durch die Wiesbadener 
 
 ## Anmeldung von Gruppen
 
-Wir freuen uns über Anmeldungen von organisierten Gruppoen und Vereinen, die sich mit unseren Zielen identifizieren können. Nutzt zur Anmeldung bitte [unser Formular](/files/gruppenanmeldung_demo-parade_csd_wiesbaden_2020.pdf).<p>
+Wir freuen uns über Anmeldungen von organisierten Gruppen und Vereinen, die sich mit unseren Zielen identifizieren können. Nutzt zur Anmeldung bitte [unser Formular](/files/gruppenanmeldung_demo-parade_csd_wiesbaden_2020.pdf).<p>
 Doch keine Sorge: Jede:r ist willkommen! Die Anmeldemöglichkeit richtet sich nur an die queeren Vereine, Parteien und queer-freundliche Organisationen die teilnehmen. Auch weiterhin sind wir ein CSD mit einer Demonstration bei der jede:r mitlaufen und für unsere (zukünftigen) Rechte eintreten kann.
 
 ## Ordner:innen

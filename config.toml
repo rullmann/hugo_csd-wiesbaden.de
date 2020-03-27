@@ -55,11 +55,17 @@ lastmod = ["lastmod", ":git", "date"]
 [[menu.main]]
   url = "/kontakt"
   name = "Kontakt"
-  weight = 30
+  weight = 40
+
 
 [[menu.main]]
   url = "/demo"
   name = "Demonstration"
+  weight = 30
+
+[[menu.main]]
+  url = "/motto"
+  name = "Motto"
   weight = 20
 
 [[menu.copyright_footer]]

@@ -4,7 +4,7 @@ fragment = "content"
 date = "2020-03-27"
 weight = 100
 +++
-## Absage des CSD Wiesbaden 2020
+## <center>Absage des CSD Wiesbaden 2020</center>
 Liebe Teilnehmer:innen, Freund:innen und alle anderen Menschen in unserer bunten und wunderbaren Community,
 
 gemeinsam mit und vor allem für euch wollten wir in diesem Jahr einen CSD Wiesbaden auf die Beine stellen, der unsere Freundschaften und (Wahl)familien, aber auch unsere Forderungen und Ziele vertritt. Dazu mit einem fantastisches Rahmen- und Bühnenprogramm und dem Wichtigsten: Mit der queeren Community in allen Facetten!

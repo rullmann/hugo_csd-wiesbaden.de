@@ -58,8 +58,8 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 30
 
 [[menu.main]]
-  url = "/demo"
-  name = "Demonstration"
+  url = "/motto"
+  name = "Motto"
   weight = 20
 
 [[menu.copyright_footer]]

@@ -1,32 +1,38 @@
 +++
 fragment = "content"
 #disabled = true
-date = "2020-01-31"
+date = "2020-03-27"
 weight = 100
 +++
-## <center>Eine Familie ist eine Familie ist eine Familie</center>
+## <center>Absage des CSD Wiesbaden 2020</center>
+Liebe Teilnehmer:innen, Freund:innen und alle anderen Menschen in unserer bunten und wunderbaren Community,
 
-Jede Familie ist einzigartig. Der CSD Wiesbaden 2020 feiert die Familie in all ihren verschiedenen Formen und Farben. Der Kern einer jeden Familie ist die Liebe, die sie zusammenhält, egal, welche persönliche Identität, welche Religion, Nationalität oder sexuelle Orientierung ihre einzelnen Mitglieder haben. Wie in jeder Stadt gibt es in Wiesbaden die unterschiedlichsten Modelle von Familie, von Alleinerziehenden bis zu Wahlfamilien. Ihre Mitglieder sind ebenso vielfältig: Sie sind weiblich, männlich, nicht-binär, inter, trans* oder cis. Sie sind hetero-, homo-, bi-, pan- oder asexuell. Sie leben mono- oder polyamor.<p>
-Der CSD 2020 ist eine Hommage und Feier der Familie als Ort der Liebe, Geborgenheit, des Zusammenhalts, der Fürsorge und Verantwortung.<br>
-Gerade für LGBTQ*I Menschen ist die Familie, in der sie aufgewachsen sind, oft mit negativen Erinnerungen an Diskriminierung, Ablehnung, Gewalt und Nicht-Akzeptanz der eigenen Sexualität verbunden. In einer Studie der Antidiskriminierungsstelle des Bundes gaben 40 % der Befragten (aus der Gesamtbevölkerung) an, dass sie es ablehnen würden, ein homosexuelles Kind zu haben.<br>
-Umso wichtiger werden für uns, die LGBTQ*I Menschen, die Wahlfamilien und engen Freundeskreise, die uns Familie sind. Genau wie jede andere, denn eine Familie ist eine Familie ist eine Familie. We strike the pose - und erinnern an dieser Stelle besonders an die Wahlfamilien, die in der Ballroom-Szene der 1980er Jahre in New York lebenswichtige Zufluchtsorte für die verstoßenen unserer Community waren.<p>
-Unter dem Motto „<b>Eine Familie ist eine Familie ist eine Familie</b>“¹ wollen wir zum diesjährigen Wiesbadener Christopher Street Day am 30. Mai gemeinsam mit Euch auf die Straßen gehen, um alle bunten Familien zu zelebrieren und uns weiterhin für die Akzeptanz von Familienvielfalt sowie die Anerkennung aller Mitglieder der LSBT*IQ-Familie, gerade von trans*- und intergeschlechtlichen Menschen in der Gesellschaft einzusetzen. Auch wir als Wahlfamilie sollten uns gegen die Diskriminierung innerhalb unserer Community stark machen.<p>
-Am 1. Oktober 2017 wurde in Deutschland das Recht auf Eheschließung mit der „Ehe für alle“ für gleichgeschlechtliche Paare beschlossen und den Paaren somit das gemeinsame Adoptionsrecht zugesprochen. Ein großer Schritt in Richtung Gleichberechtigung und Akzeptanz von Lebensentwürfen, die sich von dem traditionellen Familienbild von „Mutter, Vater, Kind“ abheben. Bedenkt man dabei, dass in den Niederlanden bereits im Jahre 2001 die gleichgeschlechtliche Ehe eingeführt wurde, wird deutlich, dass dies ein in Deutschland längst überfälliger Schritt war. Auch wenn das Gesetz gleichgeschlechtlichen Paaren das Recht auf Familie zuspricht, haben Regenbogenfamilien weiterhin nicht dieselben Freiheiten wie Familien mit heterosexuellen Paaren. Das Deutsche Abstammungsrecht besagt, dass bei lesbischen Paaren rechtlich nur die Frau als leibliche Mutter anerkennt wird, die das Kind zur Welt gebracht hat. Die Partnerin wird in der Geburtsurkunde als Mutter nicht gelistet und fungiert somit nicht als Elternteil. Sie muss das Kind als Stiefkind adoptieren. Dieser Adoptionsprozess ist dabei äußerst langwierig, entwürdigend und diskriminierend für die Betroffenen. Eine für den 1. Juli 2020 geplante Reform der Stiefkindadoption, wird das Verfahren für lesbische Paare weiter erschweren und folglich die Ausgrenzung verschärfen. Diese Ungerechtigkeit ist nur eine von vielen gegenüber der LSBT*IQ-Community, die bekämpft werden sollte.<p>
-Deshalb stellen wir folgende <b>Forderungen</b> auf:<br>
-+ <b>Reformierung des Abstammungsrechts</b>:
-  * Adoptionsrecht für lesbische Paare, sodass beide Elternteile in die Geburtsurkunde eingetragen und rechtlich als Familie anerkannt werden
-  * Rechtliche Alternativen zum Zwei-Eltern-Prinzip
-  * Familiengründung bei trans* Personen, sodass beide Personen als Elternteile eingetragen werden<br>
-+ <b>Reformierung des Transsexuellengesetzes (TSG)</b>:
-  * Bundesweit einheitliche Regelung zur Nutzung des Personenstandsgesetzes (PStG §45b) für trans*/intersexuelle/nicht-binäre Menschen. „Geschlechtsangabe und Vornamensführung bei Personen mit Varianten der Geschlechtsentwicklung“
-  * Eine auf Selbstbestimmung gerichtete bundesweite Regelung
-  * Bessere Aufklärung mit Anlaufstellen für medizinische und behördliche Beratung.
-  * Vollständige Übernahme aller Kosten im Rahmen einer Geschlechtsangleichung durch Krankenkassen
-+ <b>Operationen von intersexuellen Kindern</b>:
-  * Komplettes Verbot von nicht-notwendigen Geschlechtsangleichungen bei intersexuellen Kindern
-  * Entschädigung von Kindern, bei denen nicht-notwendige geschlechtsangleichende Operationen durchgeführt wurden<p>
+gemeinsam mit und vor allem für euch wollten wir in diesem Jahr einen CSD Wiesbaden auf die Beine stellen, der unsere Freundschaften und (Wahl)familien, aber auch unsere Forderungen und Ziele vertritt. Dazu mit einem fantastisches Rahmen- und Bühnenprogramm und dem Wichtigsten: Mit der queeren Community in allen Facetten!
 
-<b>Warmes Wiesbaden e.V.</b> veranstaltet in Kooperation mit dem <b>Schlachthof Wiesbaden</b> und der Unterstützung der <b>Landeshauptstadt Wiesbaden</b>, nach der alljährlichen Demonstration ein buntes Fest für alle Familien, welches ein großes Bühnenprogramm, einen Kinderbereich mit vielfältigen Aktivitäten, einem Awareness-Team, welches sich um das Wohlergehen der Besucher:innen kümmert, und einer großen Party in der Halle und dem Kesselhaus des Schlachthofs umfassen wird.<p>
-Also lasst uns gemeinsam am 30. Mai 2020 am Christopher Street Day in Wiesbaden auf die Straße gehen, das Erreichte feiern und uns gegen die Ausgrenzung der queere Community einsetzen, wie es Generationen vor uns getan haben. Denn jeder Mensch hat das Recht auf eine glückliche liebevolle Familie. Wir freuen uns auf Euch!<p>
-¹ Angelehnt an die ikonische Gedichtzeile „Eine Rose ist eine Rose ist eine Rose“ von Gertrude Stein, in 
-der die Rose, in all ihrer Schönheit eben einfach nur eine Rose ist, sind wir alle mit unseren diversen, bunten Familien eben auch nur alle: Einfach Familie.
+Wir wissen, dass ihr euch genau so sehr auf die queeren Kulturwochen, die lautstarke Demo, ein vielseitiges Sommerfest und die größte queere Party des Jahres gefreut habt wie wir.<br>
+Darum sind wir auch alle in der Orga enttäuscht und traurig, dass uns die COVID-19 Pandemie bzw.  das Virus SARS-CoV-2 in den letzten Wochen nicht nur in der CSD Vorbereitung, sondern auch die gesamte, europäische Gesellschaft und nahezu alle Länder der Welt beschäftigt hat.
+
+**Die Pandemie und die dadurch notwendigen Maßnahmen haben uns an einen Punkt gebracht an dem wir unseren CSD Wiesbaden absagen müssen.**
+
+Unsere Demo, das Sommerfest und die Party werden nicht am 30. Mai stattfinden.<br>
+Doch wie kam es dazu? Schließlich sind die Maßnahmen zur Eindämmung der Pandemie erst bis Mitte April angesetzt.<br>
+Der CSD Wiesbaden ist ein Projekt, welches in diesem Jahr von 26 Organisator:innen getragen wird. Wir schaffen für euch ehrenamtlich ein Projekt das im letzten Jahr so viele Menschen angezogen hat:
+* Queere Kulturwoche: Hunderte von euch waren auf 18 Veranstaltungen
+* Demo: Uns haben 2.000 statt der erwarteten 1.000 Teilnehmer:innen überwältigt!
+* Sommerfest: Es kamen 3.000 Menschen, um Redebeiträge, Drag Showeinlagen, eine politische Diskussion und die Auftritte der Künstler:innen zu verfolgen - Oder auf der Wiese zu sitzen und das Miteinander zu genießen und zu diskutieren
+* Party: Mit über 1.000 Partygästen haben wir die Musik, das Tanzen und die laue Frühlingsnacht genossen
+
+Wir tragen die Verantwortung für uns als Organisator:innen und die vielen Helfer:innen am CSD selbst, welche den Aufbau unterstützen, eine Demo ermöglichen und das Sommerfest mit uns betreuen. Dieser Verantwortung kommen wir mit der Absage nach. Wir wollen die Ressourcen und Energie dieser wunderbaren Menschen in dieser Zeit nicht weiter belasten, da niemand von uns weiß oder absehen kann wie sich die Einschränkungen durch die Pandemie entwickeln.
+
+Vor allem aber möchten wir - getreu unserem Motto 2020 „Eine Familie ist eine Familie ist eine Familie“ - **Eure Wahlfamilien und Ursprungsfamilie, eure Eltern, Großeltern und Freunde schützen. Denn so zahlreich so nah wie auf dem CSD kommt sich unsere Community selten.**
+
+Wir hoffen, dass ihr für diese Entscheidung Verständnis habt und freuen uns darauf mit und für euch einen neuen Anlauf im nächsten Jahr zu starten.
+
+**Das Programm der Queeren Kulturwoche rund um den CSD wird nach aktuellem Stand in Teilen stattfinden.** Wir werden Euch über die Social Media Kanäle auf dem Laufenden halten.
+
+Zum Abschluss wollen wir an dieser Stelle ein herzliches Dankeschön an **[Warmes Wiesbaden](https://warmeswiesbaden.de)** und das **[Kulturzentrum Schlachthof](https://schlachthof-wiesbaden.de)** richten. Die beiden Organisationen ermöglichen mit ihren Ressourcen die Planungen des CSD Wiesbaden.<br>
+Finanziell werden wir daneben von der **Landeshauptstadt Wiesbaden** unterstützt - Danke an die demokratischen Parteien in der **[Stadtverordnetenversammlung](https://www.wiesbaden.de/rathaus/stadtpolitik/stadtverordnetenversammlung/index.php)** und unserem **[Oberbürgermeister Gert-Uwe Mende](https://www.wiesbaden.de/rathaus/stadtpolitik/oberbuergermeister/index.php)** für diese Unterstützung!<br>
+Die **[Aktion Mensch](https://aktion-mensch.de)** hätte in diesem Jahr erneut unsere Anstrengungen für einen möglichst barrierefreien CSD unterstützt. Ebenfalls war eine Kooperation mit der **[ESWE Verkehr](https://www.eswe-verkehr.de)** geplant.
+
+Bitte passt auf euch und eure Mitmenschen auf und **bleibt zu Hause**, wenn ihr es könnt.<br>
+In dieser schwierigen und anstrengenden Zeit wünsche wir euch und euren Liebsten alles Gute und viel Gesundheit.

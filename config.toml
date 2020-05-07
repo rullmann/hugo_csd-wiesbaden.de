@@ -62,6 +62,11 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Motto"
   weight = 20
 
+[[menu.main]]
+  url = "/absage2020"
+  name = "Absage"
+  weight = 10
+
 [[menu.copyright_footer]]
   url = "/datenschutz"
   name = "Datenschutz"

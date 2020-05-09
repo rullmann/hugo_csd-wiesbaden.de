@@ -17,10 +17,12 @@ So kam es, dass ein ehrenamtliches Teammitglied von unserem CSD einem Anderen En
 
 ### <center>Gegen Diskriminierung - Für Vielfalt</center>
 
-COVID-19 ist eine Herausforderung für die Gesellschaft. Zu dieser Gesellschaft gehören auch LGBTQ\*I Menschen, welche zum Teil stärker durch Diskriminierung bedroht als vor der Pandemie. Zu dieser Zeit hatten wir Rückzugsorte in LGBTQ\*I-freundlichen Organisationen, konnten uns mit Freund:innen treffen und von zu Hause raus, wenn Konflikte drohen.
+COVID-19 ist eine Herausforderung für die Gesellschaft. Zu dieser Gesellschaft gehören auch LGBTQ\*I Menschen, welche zum Teil stärker durch Diskriminierung bedroht als vor der Pandemie. Zu dieser Zeit hatten wir Rückzugsorte in LGBTQ\*I-freundlichen Organisationen, konnten uns mit Freund:innen treffen und von zu Hause raus, wenn Konflikte drohen.<p>
 
-<Hier fehlt noch Inhalt!>
+Wir wollen nicht still und unsichtbar sein. Stattdessen versuchen wir durch kleine, Pandemie-taugliche Aktionen für Aufmerksamkieit und einen bunten Farbtupfer in unserer Landeshauptstadt zu sorgen.<p>
 
 ### <center>Mach mit!</center>
 
-Wir wollen mit kreativen Aktionen unsere Stadt bunter machen. Dabei ist es uns wichtig, dass wir die Stadtbevölkerung auf unsere Ziele aufmerksam machen, über LGBTQ\*I aufklären und so der Disktiminierung und Angriffen entgegenwirken.<br>Folgt uns doch auf Facebook oder Instagram. Hier werden wir über unsere Aktionen informieren. Falls alles klappt könnt ihr mitmachen - Mit Abstand und ganz ohne Menschenansammlungen.
+Wir wollen mit kreativen Aktionen unsere Stadt bunter machen. Dabei ist es uns wichtig, dass wir die Stadtbevölkerung auf unsere Ziele aufmerksam machen, über LGBTQ\*I aufklären und so der Disktiminierung und Angriffen entgegenwirken. Unserem [Motto und den Forderungen](/motto) bleiben wir treu.<p>
+
+Folgt uns doch auf Facebook oder Instagram. Hier werden wir über unsere Aktionen informieren. Falls alles klappt könnt ihr mitmachen - Mit Abstand und ganz ohne Menschenansammlungen.

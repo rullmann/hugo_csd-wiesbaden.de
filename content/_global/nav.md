@@ -13,6 +13,6 @@ weight = 0
 
 # Branding options
 [asset]
-  image = "logo.png"
+  image = "logo_alt.png"
   text = "Christopher Street Day Wiesbaden"
 +++

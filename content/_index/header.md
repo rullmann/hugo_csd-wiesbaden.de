@@ -15,5 +15,5 @@ minHeight = "768px"
   image = "header_alt.png"
 
 [asset]
-  image = "header_inner_logo_alt.png"
+  image = "transparent.gif"
 +++

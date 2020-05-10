@@ -1,5 +1,5 @@
 +++
-fragment = "nav"
+fragment = "csdnav"
 #disabled = true
 date = "2020-01-31"
 weight = 0
@@ -13,6 +13,6 @@ weight = 0
 
 # Branding options
 [asset]
-  image = "logo.png"
+  image = "logo_alt.png"
   text = "Christopher Street Day Wiesbaden"
 +++

@@ -1,7 +1,7 @@
 +++
 fragment = "hero"
 #disabled = true
-date = "2020-01-31"
+date = "2020-05-06"
 weight = 50
 background = "text_light" # can influence the text color
 particles = false
@@ -9,11 +9,11 @@ particles = false
 title = "Christopher Street Day Wiesbaden"
 subtitle = ""
 
-minHeight = "768px"
+minHeight = "350px"
 
 [header]
-  image = "header_alt.png"
+  image = "header.jpg"
 
 [asset]
-  image = "transparent.gif"
+  image = "header_inner_logo.png"
 +++
